@@ -8,11 +8,14 @@
   </a>
 </p>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rami Nawam
-==================================================================================================================================
+<h1 align="center">
+  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35">, I'm Rami Nawam
+</h1>
 
-Co-op Software engineering
---------------------------
+<h3 align="center">
+  Co-op Software Engineering student at Mcgill University
+</h3>
+
 
 I am a coder who started their journey with Python, I found it absolutely delightful, and I haven't looked back since. After mastering Python, I dabbled in C, played around with Java, and are now diving deep into the world of web development with CSS, HTML, JavaScript, and React. I am on a mission to build websites and applications that are as fun and engaging as their journey into coding has been. With each new language and framework, I am adding more tools to their digital toolkit, ready to take on the web one line of code at a time.
 
